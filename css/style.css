@@ -78,7 +78,8 @@ input[type="submit"],.btn-primary,.date-tag-right a,.news-grid-right ul li a,.na
 
 .invited {
 	font-size: 23px;
-    margin-left: 28px;
+	margin-left: 28px;
+	margin-top:30px;
 }
 
 
